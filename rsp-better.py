@@ -1,5 +1,6 @@
 #!/usr/bin/python
-#a simple, single hand game of rock, paper, scissors by John Hammink
+#a simple, single hand game of rock, paper, scissors
+#john@johnhamm.ink
 
 import random
 
