@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #rock, scissors, paper with fluentd logging
+#john@johnhamm.ink
 
 import random
 from fluent import sender
