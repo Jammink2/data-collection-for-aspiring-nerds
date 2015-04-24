@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #a single hand game of rock, paper, scissors
+#john@johnhamm.ink
 
 import random
 
